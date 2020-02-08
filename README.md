@@ -1,2 +1,3 @@
 # Reserch
-ethics 
+Reserch about Can Computer take our job
+
